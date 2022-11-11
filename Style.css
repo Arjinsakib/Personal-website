@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    margin-top: -3%;
+    color:dimgray;
+}
+h1{
+    
+    margin-top: -3%;
+    font-size: 50px;
+    color: hotpink;
+}
+
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+    margin-top: 4%;
+    
+    text-align: center;
+}
+h6{
+
+    font-weight: 50;
+}
+h5{
+    font-size: 20px;
+}
+.p4{
+    padding-top: -15%;
+    margin: 0px;
+}
+h4{
+    font-size: 50px;
+}
+.half-width{
+    
+    
+    width: 28%;
+    float: left;
+    margin-top: 15%;
+    padding-left: 21%;
+       
+}
+.half-width-3{
+    width: 40%;
+    float: left;
+    margin-top: 5%;
+    padding-left: 7%;
+
+}
+.text4{
+    text-align: center;
+}
+.half-width-3 img{
+    width: 100%;
+}
+
+.half-width img{
+
+    width: 100%;
+}
+
+.top-benner{
+    margin: 0px;
+    background-image: url("Images/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 500px;
+}
+.Biography{
+    width: 100%;
+    margin: 0px;
+    background-image: url("Images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.latest-work{
+    background-image:url("Images/latest-work-bg.png");
+    margin: opx;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(#e66465, #9198e5);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.border{
+    padding-left:30%;
+    border-style:solid;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color:#9198e5;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+
+
+
