@@ -26,6 +26,10 @@ h6{
 
     font-weight: 50;
 }
+h3{
+    font-size: 20px;
+    font-weight:30;
+}
 h5{
     font-size: 20px;
 }
@@ -97,17 +101,17 @@ section{
     font-weight: 700;
 }
 .border{
-    padding-left:30%;
-    border-style:solid;
-    border-radius: 10px;
-    text-align: center;
-    text-decoration: none;
-    background-color:#9198e5;
-    padding: 10px 20px;
-    border-radius: 10px;
     color: white;
-    font-weight: 700;
+    box-sizing: 10px 10px 40px gray;
+    float: left;
+    padding-left: 10%;
+    border-radius: 5px;
+    height: 80%;
+    background-color: hotpink;
 }
+
+
+
 
 
 
