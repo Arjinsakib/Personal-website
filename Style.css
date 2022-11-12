@@ -3,11 +3,12 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 p{
-    margin-top: -3%;
+   margin-top: -3%;
     color:dimgray;
 }
 .rigth{
-    color: aquamarine;
+    margin-top: 0%;
+    color: dimgray;
 }
 h1{
     
@@ -21,7 +22,7 @@ h2{
 }
 h3{
     font-size: 30px;
-    margin-top: 4%;
+    margin-top: -3px;
     
     text-align: center;
 }
@@ -124,6 +125,7 @@ section{
 }
 
 .link-button{
+    
     text-decoration: none;
     background-image:linear-gradient(#e66465, #9198e5);
     padding: 10px 20px;
