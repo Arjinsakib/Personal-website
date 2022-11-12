@@ -108,10 +108,10 @@ h4{
 }
 section{
     height: 500px;
-    padding-bottom: 520px;
+    padding-bottom: 500px;
 }
 .Biography{
-    width: 100%;
+    
     
     margin: 0px;
     background-image: url("Images/biography-bg.png");
@@ -144,10 +144,7 @@ section{
     border-radius: 8px;
     background-color: hotpink;
 }
-#lastpage{
-    text-align: center;
-    background-image: url("Images/footer-bg.png");
-}
+
 
 .half-width-e{
     text-align: center;
@@ -174,6 +171,11 @@ section{
     color: white;
 }
 
+.footeer{
+    margin: 0px;
+    background-image: url("Images/footer-bg.png");
+
+}
 
 
 
